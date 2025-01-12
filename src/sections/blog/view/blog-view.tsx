@@ -8,7 +8,6 @@ import Pagination from '@mui/material/Pagination';
 
 import { _posts } from 'src/_mock';
 import { DashboardContent } from 'src/layouts/dashboard';
-
 import { Iconify } from 'src/components/iconify';
 
 import { PostItem } from '../post-item';
