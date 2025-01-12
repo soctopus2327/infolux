@@ -107,12 +107,12 @@ export const _langs = [
   {
     value: 'de',
     label: 'Hindi',
-    // icon: '/assets/icons/flags/ic-flag-de.svg',
+    icon: '/assets/icons/flags/ic-flag-de.svg',
   },
   {
     value: 'fr',
     label: 'Telugu',
-    // icon: '/assets/icons/flags/ic-flag-fr.svg',
+    icon: '/assets/icons/flags/ic-flag-fr.svg',
   },
 ];
 
