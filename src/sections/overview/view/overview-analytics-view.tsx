@@ -27,17 +27,15 @@ export function OverviewAnalyticsView() {
         <br/>
       </Typography>
       <img 
-          src="public/assets/images/logo.png" 
+          src="/assets/images/logo.png" 
           height="60rem" 
-          // width="500rem" 
           alt="Mascot" 
         />
       </Box>
       <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
         <img 
-          src="public/assets/images/mascot.png" 
+          src="/assets/images/mascot.png" 
           height="500rem" 
-          // width="500rem" 
           alt="Mascot" 
         />
       </Box>
